@@ -8,7 +8,7 @@
 Ever since I created these public profiles I've been really dumb about my security, so that's why some of my repositories are private.**
 
 - 🔭 I’m currently working on a video game crypto-currency called **SodaCoin**. Website can be found at (https://soda-coin.herokuapp.com/)[https://soda-coin.herokuapp.com/]
-- 🌱 I’m currently learning **Java** for minecraft plugins (I don't find other languages like Ruby, Clojure, C++, etc. very useful ATM).
+- 🌱 I’m currently learning **Java** for minecraft plugins (I don't find other languages like Ruby, Clojure, C++, etc. not very useful ATM).
 - 😄 Pronouns: **we/us** (very mature)
 - ⚡ Fun fact: **The average person walks by almost 16 murderers in their lifetime.**
 
