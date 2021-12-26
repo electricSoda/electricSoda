@@ -12,5 +12,5 @@ Ever since I created these public profiles I've been really dumb about my securi
 - 😄 Pronouns: **we/us** (very mature)
 - ⚡ Fun fact: **The average person walks by almost 16 murderers in their lifetime.**
 
-#### Anways thank's for stopping by.
+#### Anways thanks for stopping by.
 
