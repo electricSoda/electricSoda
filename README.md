@@ -1,8 +1,5 @@
 # Ahoy! Welcome to my enclave of random projects 👋
 
-![Profile pic](https://github.com/electricSoda/electricSoda.github.io/blob/ce31504badd8bb91b6445bbf172b4cf086054b2d/images/favicon.png?raw=true)
-
-
 ## Aaaabout me 😎
 I've been coding since 2016. I've learned a lot on my coding journey, and  have created some ambitious projects.
 
