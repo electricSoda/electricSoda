@@ -24,5 +24,6 @@ I've been coding since 2016. I've learned a lot on my coding journey, and  have 
 
 [![electricSoda's GitHub stats](https://github-readme-stats.vercel.app/api?username=electricSoda)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Dev Joke XD](https://readme-jokes.vercel.app/api)](https://readme-jokes.vercel.app/api)
 
 **☜(ﾟヮﾟ☜)(☞ﾟヮﾟ)☞**
