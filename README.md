@@ -1,7 +1,5 @@
 # Hi 👋
-
-![Rick Rolled](https://c.tenor.com/VFFJ8Ei3C2IAAAAM/rickroll-rick.gif)
-
+[![Dev Joke XD](https://readme-jokes.vercel.app/api)](https://readme-jokes.vercel.app/api)
 ## About me
 I've been coding since 2016. I've learned a lot and have created some ambitious projects.
 
@@ -24,7 +22,5 @@ I've been coding since 2016. I've learned a lot and have created some ambitious 
 [![electricSoda's GitHub stats](https://github-readme-stats.vercel.app/api?username=electricSoda)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Profile Counter](https://komarev.com/ghpvc/?username=electricSoda&color=green)
-
-[![Dev Joke XD](https://readme-jokes.vercel.app/api)](https://readme-jokes.vercel.app/api)
 
 
