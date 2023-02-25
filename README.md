@@ -1,29 +1,30 @@
-# Ahoy! Welcome to my enclave of random projects 👋
+# Hi 👋
 
 ![Rick Rolled](https://c.tenor.com/VFFJ8Ei3C2IAAAAM/rickroll-rick.gif)
 
-## Aaaabout me 😎
-I've been coding since 2016. I've learned a lot on my coding journey, and  have created some ambitious projects.
+## About me
+I've been coding since 2016. I've learned a lot and have created some ambitious projects.
 
-- 📚 I am still in school, but am trying my best to utilize and maximize free time to go on coding adventures
-- 👨‍🎓 I’m currently learning **C++** , and **Java**
+- 📚 I am still in school, but am trying my best to utilize and maximize free time
+- 👨‍🎓 I’m currently learning **C++**
 - 🤤 Goals: Learn vim 
 - 🔠 Pronouns: **hee/hee** (he/him)
-- ⚡ Fun fact: `A philosopher once said, ‘Half of good philosophy is good grammar.'`
 
-## Skillz 💯
-- Python
-- Frontend (HTML, CSS, PHP, NodeJS, React)
-- MongoDB
-- Unity, C# (tiny bit), Blender
-- Java (still learning), C++ (still learning)
+## Skills (ranked from most proficient to least proficient)
 - Searching stackoverflow
+- Python
+- Frontend (HTML, CSS, PHP, NodeJS, React, TypeScript, React Native, Javascipt)
+- C++
+- MongoDB (NoSQL)
+- Unity, C# (tiny bit)
 
 
-#### Anways thanks for stopping by. 👍
+#### Anyways thanks for stopping by
 
 [![electricSoda's GitHub stats](https://github-readme-stats.vercel.app/api?username=electricSoda)](https://github.com/anuraghazra/github-readme-stats)
 
+![Profile Counter](https://komarev.com/ghpvc/?username=electricSoda&color=green)
+
 [![Dev Joke XD](https://readme-jokes.vercel.app/api)](https://readme-jokes.vercel.app/api)
 
-**☜(ﾟヮﾟ☜)(☞ﾟヮﾟ)☞**
+
