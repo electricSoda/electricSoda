@@ -19,8 +19,6 @@ I've been coding since 2016. I've learned a lot and have created some ambitious 
 
 #### Anyways thanks for stopping by
 
-[![electricSoda's GitHub stats](https://github-readme-stats.vercel.app/api?username=electricSoda)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Profile Counter](https://komarev.com/ghpvc/?username=electricSoda&color=green)
 
 
