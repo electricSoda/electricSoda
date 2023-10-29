@@ -20,7 +20,7 @@ I've been coding since 2016. I've learned a lot and have created some ambitious 
 - LOLCode
 
 
-#### Anyways thanks for stopping by
+#### Thanks for stopping by!
 
 ![Profile Counter](https://komarev.com/ghpvc/?username=electricSoda&color=green)
 
