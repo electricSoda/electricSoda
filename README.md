@@ -1,5 +1,5 @@
 # Hi 👋
-[![Dev Joke](https://readme-jokes.vercel.app/api)](https://readme-jokes.vercel.app/api)
+![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
 
 
 
