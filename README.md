@@ -1,5 +1,5 @@
 # Hi 👋
-<img src="https://github.com/demartini/demartini/blob/master/code.gif" width="300" height="300" />
+<img src="https://github.com/demartini/demartini/blob/master/code.gif" width="400" height="300" />
 
 
 ## About me
