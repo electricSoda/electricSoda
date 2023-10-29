@@ -1,6 +1,5 @@
 # Hi 👋
-![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
-
+![Coding...](https://github.com/demartini/demartini/blob/master/code.gif  =250x250)
 
 
 ## About me
